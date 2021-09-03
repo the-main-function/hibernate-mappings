@@ -5,7 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>hibernate-mappings</name>
   <description>project implementing various hibernate mappings	</description>
-  
+
+	  
   <dependencies>
   		<!-- hibernate core dependency -->
 		<dependency>
